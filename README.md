@@ -1,0 +1,1 @@
+This is a project where I will make a program to play Rock, Paper, Scissors with a computer opponent in the console.
